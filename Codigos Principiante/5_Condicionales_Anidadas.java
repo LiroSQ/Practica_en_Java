@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Condicionales_Anidadas {
+public class 5_Condicionales_Anidadas {
   public static void main(String args[]) {
 
    System.out.println("\n\n\n                    ===============================================\n                      Calculadora Pre-Basica - (Version 0.3.2)");

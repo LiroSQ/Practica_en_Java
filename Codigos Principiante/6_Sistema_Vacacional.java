@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Sistema_Vacacional {
+public class 6_Sistema_Vacacional {
 
     public static void main(String args[]) {
         System.out.println("\n======================================\n  Sistema Vacacional (Version 0.3.1)\n======================================");
@@ -10,8 +10,8 @@ public class Sistema_Vacacional {
         System.out.println("\n\n (#2) Escriba su *Numero* Clave de Trabajo: \n");
         System.out.println("1) Marketing\n2) Gerente\n3) Limpieza\n !Solo escriba el numero de inciso!\n");
         int Clave = Entrada.nextInt();
-        System.out.println("\n\n (#3) ¿Cuantos años de Servicio actualmente tiene usted en la Empresa?");
-        System.out.println("\nElija una opcion: \n\n1) Menos de 1 año\n2) 1 año \n3) 2 años\n4) 3 años\n5) 4 años\n6) 5 años\n7) 6 años o mas...\n !Solo escriba el numero de inciso!\n");
+        System.out.println("\n\n (#3) Â¿Cuantos aÃ±os de Servicio actualmente tiene usted en la Empresa?");
+        System.out.println("\nElija una opcion: \n\n1) Menos de 1 aÃ±o\n2) 1 aÃ±o \n3) 2 aÃ±os\n4) 3 aÃ±os\n5) 4 aÃ±os\n6) 5 aÃ±os\n7) 6 aÃ±os o mas...\n !Solo escriba el numero de inciso!\n");
         int Servicio = Entrada.nextInt();
         if (Clave == 1) {
             if (Servicio == 1) {

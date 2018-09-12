@@ -1,4 +1,4 @@
-public class Promedios_Condicionales{
+public class 4_Promedios_Condicionales{
   public static void main(String args[]){
 
     int Matematicas = 66;

@@ -1,4 +1,4 @@
-public class Aritmetica 
+public class 3_Aritmetica 
 {
   public static void main(String args []) {
 

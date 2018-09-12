@@ -1,4 +1,4 @@
-public class Suma{
+public class 2_Suma{
   public static void main(String args[]){
 
    int Valor1    = 5;
